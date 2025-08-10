@@ -1,0 +1,11 @@
+Question:
+Compare revenue and net profit year-over-year.
+
+Answer:
+Based on the provided financial report, the revenue for the three months period ended 31 March 2025 (Un-audited) is PKR 23,101 million, while the revenue for the same period last year (31 March 2024) is PKR 29,455 million. This represents a year-over-year decrease of PKR 6,354 million, or 21.7%.
+
+The net profit before tax for the three months period ended 31 March 2025 (Un-audited) is PKR 17,032 million, while the net profit before tax for the same period last year (31 March 2024) is PKR 24,736 million. This represents a year-over-year decrease of PKR 7,704 million, or 31.2%.
+
+The net profit after tax for the three months period ended 31 March 2025 (Un-audited) is PKR 7,985 million, while the net profit after tax for the same period last year (31 March 2024) is PKR 11,237 million. This represents a year-over-year decrease of PKR 3,252 million, or 29.1%.
+
+In summary, both revenue and net profit have decreased year-over-year, with revenue decreasing by 21.7% and net profit decreasing by 29.1%.

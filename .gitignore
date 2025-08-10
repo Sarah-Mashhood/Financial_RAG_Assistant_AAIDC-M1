@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs and outputs
+*.log
+*.out
+*.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Chroma vector DB
+vector_store/vector_db/

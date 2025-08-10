@@ -1,0 +1,44 @@
+Financial_RAG_Assistant/
+├── .vscode
+│   └── settings.json
+├── data
+│   └── reports
+│       ├── Standard Chartered Bank.pdf
+├── output
+│   ├── response_20250806_165000.txt
+│   ├── response_20250806_165002.txt
+├── src
+│   ├── __pycache__
+│   ├── utils
+│   │   ├── __pycache__
+│   │   ├── __init__.py
+│   │   ├── file_loader.py
+│   │   └── text_helpers.py
+│   ├── __init__.py
+│   ├── ingest.py
+│   └── query.py
+├── test
+│   └── test_query.py
+├── vector_store
+│   └── vector_db
+│       ├── 310689f3-9706-43e5-b7b8-c700f76ba749
+│       │   ├── data_level0.bin
+│       │   ├── header.bin
+│       │   ├── length.bin
+│       │   └── link_lists.bin
+│       └── chroma.sqlite3
+├── venv
+├── .env
+├── .env_example
+├── .gitignore
+├── financial_rag_architecture.png
+├── generate_architecture.py
+├── generate_repo_tree.py
+├── How-app-works.gif
+├── LICENSE
+├── pyproject.toml
+├── README.md
+├── repo_structure.txt
+├── requirements.txt
+├── setup.py
+└── streamlit_financial_rag_assistant.py

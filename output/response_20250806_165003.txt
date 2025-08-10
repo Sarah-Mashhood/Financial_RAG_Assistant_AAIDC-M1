@@ -1,0 +1,14 @@
+Question:
+What was the efficiency ratio in the last quarter?
+
+Answer:
+Based on the provided financial report, the operating expenses in the last quarter (31 March 2025) were PKR 5,437 million, and the revenue was PKR 23,101 million.
+
+To calculate the efficiency ratio, we can use the following formula:
+
+Efficiency Ratio = Operating Expenses / Revenue
+
+Efficiency Ratio = PKR 5,437 million / PKR 23,101 million
+= 0.236 or 23.6%
+
+Therefore, the efficiency ratio in the last quarter was 23.6%.

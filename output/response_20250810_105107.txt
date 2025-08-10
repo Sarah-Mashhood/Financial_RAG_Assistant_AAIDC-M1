@@ -1,0 +1,21 @@
+Question:
+tell me about company's financials
+
+Answer:
+Based on the provided financial report, here are some insights into the company's financials:
+
+**Revenue**: The company's revenue has decreased by PKR 6.4 billion (22%) to PKR 23.1 billion in the current period compared to PKR 29.5 billion in the corresponding period last year.
+
+**Operating Profit**: The company's operating profit before credit loss allowance and tax has decreased by PKR 6.9 billion (28%) to PKR 17.3 billion in the current period compared to PKR 24.3 billion in the corresponding period last year.
+
+**Profit Before Tax**: The company's profit before tax has decreased by PKR 7.7 billion (31%) to PKR 17.0 billion in the current period compared to PKR 24.7 billion in the corresponding period last year.
+
+**Profit After Tax**: The company's profit after tax has decreased by PKR 3.2 billion (28%) to PKR 8.0 billion in the current period compared to PKR 11.2 billion in the corresponding period last year.
+
+**Earnings Per Share (EPS)**: The company's EPS has decreased to PKR 2.06 in the current period compared to PKR 2.90 in the corresponding period last year.
+
+**Balance Sheet**: The company's total equity has decreased by PKR 14.3 billion (12%) to PKR 103.4 billion in the current period compared to PKR 117.7 billion in the corresponding period last year. The company's deposits have decreased by PKR 110.1 billion (13%) to PKR 725.6 billion in the current period compared to PKR 835.7 billion in the corresponding period last year.
+
+**Return on Equity (ROE)**: The company's ROE (after tax) is not explicitly mentioned in the report, but the banking industry's ROE (after tax) is mentioned as 21.5%.
+
+Overall, the company's financial performance has been impacted by a sharp reduction in interest rates, leading to a decrease in revenue and profitability. However, the company has taken steps to offset this impact through an increase in non-funded income and a decrease in cost of funds.

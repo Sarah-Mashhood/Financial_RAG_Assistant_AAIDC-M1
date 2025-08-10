@@ -1,0 +1,15 @@
+Question:
+What was the efficiency ratio in the last quarter?
+
+Answer:
+Based on the provided financial report, the efficiency ratio for the last quarter (January – March 2025) is not explicitly mentioned. However, we can calculate the efficiency ratio using the available information.
+
+Efficiency ratio = (Operating profit / Total assets)
+
+From the financial report, we know that the operating profit (before credit loss allowance and tax) for the quarter ended March 2025 is PKR 17,342 million.
+
+The total assets for the quarter ended March 2025 are not explicitly mentioned, but we can use the total assets for the year ended December 2024, which is PKR 886,138,488.
+
+Efficiency ratio = (17,342 million / 886,138,488) = 1.95%
+
+So, the efficiency ratio for the last quarter (January – March 2025) is approximately 1.95%.

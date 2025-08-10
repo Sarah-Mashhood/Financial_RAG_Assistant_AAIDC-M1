@@ -1,0 +1,26 @@
+[project]
+name = "financial_rag_assistant"
+version = "0.1.0"
+description = "A Retrieval-Augmented Generation (RAG) based assistant for financial report analysis."
+authors = [
+    { name="Syeda Sarah Mashhood", email="sarahmashhood1995@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+dependencies = [
+    "langchain>=0.1.16",
+    "chromadb>=0.4.24",
+    "openai",
+    "tiktoken",
+    "python-dotenv",
+    "pypdf",
+    "unstructured",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "black"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

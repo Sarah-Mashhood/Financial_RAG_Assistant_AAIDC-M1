@@ -1,0 +1,14 @@
+Question:
+Report the total assets if available.
+
+Answer:
+Based on the provided financial report, the total assets are not explicitly stated. However, we can calculate the total assets by adding the following components:
+
+* Advances-gross: PKR 244,535
+* Advances-net: PKR 225,569
+* Investments - net: PKR 562,943
+* Deposits: PKR 725,616
+
+Total Assets = PKR 244,535 + PKR 225,569 + PKR 562,943 + PKR 725,616 = PKR 1,758,663
+
+So, the total assets are PKR 1,758,663.

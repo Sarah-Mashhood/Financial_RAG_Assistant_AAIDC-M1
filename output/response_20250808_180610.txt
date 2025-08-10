@@ -1,0 +1,13 @@
+Question:
+Report the total assets if available.
+
+Answer:
+Based on the provided financial report, the following are the total assets:
+
+* Total Equity: 117,721,857
+* Deposits: 835,695
+* Advances- gross: 244,535
+* Advances- net: 225,569
+* Investments - net: 562,943
+
+Total Assets: 1,049,698,959

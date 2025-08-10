@@ -1,0 +1,16 @@
+Question:
+List key financial ratios like ROE, ROA, and profit margin.
+
+Answer:
+Based on the provided financial report, the key financial ratios are:
+
+1. ROE (Return on Equity):
+ROE (after tax) = 21.5%
+
+2. ROA (Return on Assets):
+ROA = Not available (as the asset figures are not provided)
+
+3. Profit Margin:
+Profit margin (before tax) = (Profit before tax / Revenue) = (17,032 / 23,101) = 73.7%
+
+Note: The profit margin calculation is based on the Profit before tax and Revenue figures for the period ended March 31, 2025.
