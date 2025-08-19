@@ -1,0 +1,46 @@
+query,expected_keywords,retrieved_preview,retrieval_status,llm_response_preview,generation_status
+What was the company's revenue in 2024?,"revenue, 2024","INTERNAL 
+Period ended 
+Period ended 
+31 March 2025 
+31 March 2024 
+(PKR millions) 
+(PKR millions) 
+Profit and Loss 
+Rev",PASS,"based on the provided financial report, the company's revenue in 2024 was pkr 29,455 million.",PASS
+"List key financial ratios like ROE, ROA, and profit margin.","ROE, ROA, profit margin","Balance Sheet 
+Paid-up capital 
+38,716 
+38,716 
+Total equity 
+103,441 
+117,722 
+Deposits 
+725,616 
+835,695 
+Advances- gr",FAIL,"based on the provided financial report, the key financial ratios are:
+
+1. return on equity (roe): 21.5% (after-tax)
+2. r...",PASS
+What was the efficiency ratio in the last quarter?,"efficiency ratio, quarter","INTERNAL 
+Period ended 
+Period ended 
+31 March 2025 
+31 March 2024 
+(PKR millions) 
+(PKR millions) 
+Profit and Loss 
+Rev",FAIL,"based on the provided financial report, we can calculate the efficiency ratio by dividing the operating expenses by the ...",PASS
+Compare revenue and net profit year-over-year.,"revenue, net profit","INTERNAL 
+Period ended 
+Period ended 
+31 March 2025 
+31 March 2024 
+(PKR millions) 
+(PKR millions) 
+Profit and Loss 
+Rev",FAIL,"based on the provided financial report, here is the comparison of revenue and net profit year-over-year:
+
+revenue:
+
+* 31...",PASS

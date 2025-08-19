@@ -1,0 +1,13 @@
+Question:
+List key financial ratios like ROE, ROA, and profit margin.
+
+Answer:
+Based on the provided financial report, the key financial ratios are:
+
+1. Return on Equity (ROE): 21.5% (after-tax)
+2. Return on Assets (ROA): Information not available.
+3. Profit Margin: Not explicitly stated, but can be calculated as:
+	* Operating Profit Margin: 74.4% ((17,342 - 310) / 23,101)
+	* Net Profit Margin: 34.1% (7,985 / 23,101)
+
+Note that the ROA is not explicitly stated in the provided report. If you would like me to calculate it, I would need additional information such as the total assets of the bank.

@@ -1,0 +1,19 @@
+Question:
+Compare revenue and net profit year-over-year.
+
+Answer:
+Based on the provided financial report, here is the comparison of revenue and net profit year-over-year:
+
+Revenue:
+
+* 31 March 2025: PKR 23,101 million
+* 31 March 2024: PKR 29,455 million
+* Year-over-year change: -21.5% (PKR 6,354 million decrease)
+
+Net Profit:
+
+* 31 March 2025: PKR 7,985 million
+* 31 March 2024: PKR 11,237 million
+* Year-over-year change: -28.8% (PKR 3,252 million decrease)
+
+Note that the revenue decreased by 21.5% year-over-year, while the net profit decreased by 28.8% year-over-year.
